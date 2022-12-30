@@ -1,5 +1,5 @@
-const score = document.querySelectorAll('.Score')
-const totalScore = document.querySelectorAll('.Total-Score')
+const score = document.querySelectorAll('.score')
+const totalScore = document.querySelectorAll('.total-score')
 const btn = document.querySelector('.btn')
 const btn1 = document.querySelector('.btn1')
 let count = 0
