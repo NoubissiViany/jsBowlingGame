@@ -1,0 +1,57 @@
+.page-content {
+  margin-top: 80px;
+}
+
+.heading {
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+table {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  color: white;
+  background-color: red;
+  text-align: center;
+}
+
+.container {
+  max-width: 850px;
+  margin: auto;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.btn,
+.btn1 {
+  text-align: center;
+  border: none;
+  padding: 15px 20px;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  margin-top: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.btn1 {
+  background-color: red;
+}
