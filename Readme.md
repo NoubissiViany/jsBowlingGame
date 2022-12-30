@@ -31,7 +31,7 @@ Knowledge about:
 
 - $ git clone `git@github.com:NoubissiViany/jsBowlingGame.git`
 - $ `cd jsBowlingGame`
-- $ `git checkout  feature/jsBowlingGame`
+- $ `git checkout feature/jsBowlingGame`
 
 ## Start App
 
